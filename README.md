@@ -1,7 +1,7 @@
 # Contexte
 Afin d'acquérir les notions de base de la Programmation Orientée Objets en Java, j'ai effectué en première année de cycle ingénieur à l'ESIEE Paris ce projet individuel proposé par l'enseignant Mr Denis BUREAU ([page web du projet](https://perso.esiee.fr/~bureaud/E3ST/#java)). Celui-ci consiste au développement d'un jeu d'aventure hypertextuel en utilisant le logiciel [Blue J](https://www.bluej.org/) comme environnement de développement.
 
-Pour plus d'information sur le projet, le rapport peut être consulté et téléchargé [ici]().
+Pour plus d'information sur le projet, le rapport peut être consulté et téléchargé [ici](Rapport%20Projet%20Java.pdf).
 
 # Installer et tester le jeu
 Après avoir installé le logiciel [Blue J](https://www.bluej.org/) au préalable ainsi que le [fichier JAR](jeu_aventure_a_executer.jar) contenant le code source du jeu compressé, suivre les instructions affichées ci-dessous.
