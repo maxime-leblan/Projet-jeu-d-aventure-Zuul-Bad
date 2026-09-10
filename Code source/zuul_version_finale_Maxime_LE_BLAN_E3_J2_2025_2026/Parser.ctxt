@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\r\n\ Classe\ permettant\ de\ r\u00E9cup\u00E9rer\ le\ texte\ saisie\ par\ le\ joueur\ lorsque\r\n\ celui-ci\ tape\ une\ commande.\r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=
+comment1.target=Parser()
+comment1.text=\r\n\ Constructeur\ par\ defaut\ qui\ cr\u00E9e\ les\ 2\ objets\ pr\u00E9vus\ pour\ les\ attributs\r\n
+comment2.params=pInputLine
+comment2.target=pkg_commands.Command\ getCommand(java.lang.String)
+comment2.text=\ \r\n\ Convert\ an\ input\ given\ by\ the\ user\ into\ a\ Command\ object.\r\n\ @param\ pInputLine\ the\ input\ from\ the\ user.\r\n\ @return\ The\ next\ command\ from\ the\ user.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCommandString()
+comment3.text=\r\n\ Returns\ a\ String\ with\ valid\ command\ words.\r\n\ @return\ a\ String\ with\ valid\ command\ words.\r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ Classe\ CommandWords\ -\ g\u00E8re\ l'utilisation\ de\ commandes\ dans\ le\ jeu.\ \r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=
+comment1.target=CommandWords()
+comment1.text=\r\n\ Constructor\ -\ initialise\ the\ command\ words.\r\n
+comment2.params=pString
+comment2.target=boolean\ isCommand(java.lang.String)
+comment2.text=\r\n\ V\u00E9rifie\ si\ la\ chaine\ pass\u00E9e\ en\ param\u00E8tre\ est\ une\ commande.\ \r\n\ @param\ pString\ chaine\ de\ caract\u00E8res\ contenant\ la\ commande\ \u00E0\ v\u00E9rifier\r\n\ @return\ true\ si\ la\ chaine\ pass\u00E9e\ est\ une\ commande,\r\n\ false\ sinon.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getCommandList()
+comment3.text=\ \r\n\ Fonction\ qui\ renvoie\ une\ chaine\ de\ caract\u00E8res\ contenant\ toutes\r\n\ les\ commandes\ valides.\r\n\ @return\ une\ chaine\ de\ caract\u00E8res\r\n
+numComments=4

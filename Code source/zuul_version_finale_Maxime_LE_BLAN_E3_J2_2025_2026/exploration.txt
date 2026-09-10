@@ -1,0 +1,106 @@
+take
+drop
+drop couteau_de_combat
+items
+take DC-15A
+items
+look DC-15S
+take DC-15S
+items
+use couteau_de_combat
+use DC-15S
+go east
+go north
+look
+eat
+help
+look médikit
+go west
+back
+back
+look DC-15S
+go east
+ask R2-D2 bibo
+go south
+look
+go south
+look médikit
+take médikit
+alea couloir_a
+go north
+go north
+test
+go
+abracadabra
+go north
+go north
+look détonateur_thermique
+take détonateur_thermique
+take détonateur_ionique
+take macro_jumelles
+back
+back
+go east
+look macro_jumelles
+drop DC-15S
+items
+ask R4-D7 sac_à_dos
+ask RA-7 sac_à_dos
+take sac_à_dos
+use sac_à_dos
+items
+take bague_Dathomirienne
+take DC-15S
+items
+charge bague_Dathomirienne
+back
+go north
+go north
+items
+take macro_jumelles
+items
+back
+back
+go east
+go east
+go up
+go up
+go down
+go down
+back
+go west
+look
+go south
+go south
+go up
+look
+use bague_Dathomirienne
+back
+back
+back
+go east
+go up
+go west
+go south
+go south
+go up
+charge bague_Dathomirienne
+go down
+go north
+go north
+go east
+go down
+go west
+go west
+go south
+go south
+take médikit
+items
+alea couloir_a
+go north
+go south
+alea
+go north
+use bague_Dathomirienne
+look
+take drapeau

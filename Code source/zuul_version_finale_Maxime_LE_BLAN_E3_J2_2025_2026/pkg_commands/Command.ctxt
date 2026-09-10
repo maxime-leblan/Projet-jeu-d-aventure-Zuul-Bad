@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Classe\ Command\ -\ une\ commande\ du\ jeu\ d'aventure\ Zuul.\r\n\r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=pCommandWord\ pSecondWord\ pThirdWord
+comment1.target=Command(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ commande\r\n\ @param\ pCommandWord\ premier\ mot\ correspondant\ \u00E0\ l'instruction\ de\ la\ commande\ appel\u00E9e\r\n\ @param\ pSecondWord\ deuxi\u00E8me\ mot\ correspondant\ au\ premier\ param\u00E8tre\ associ\u00E9e\ \u00E0\ la\ commande\r\n\ @param\ pThirdWord\ troisi\u00E8me\ mot\ correspondant\ au\ deuxi\u00E8me\ param\u00E8tre\ associ\u00E9e\ \u00E0\ la\ commande\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCommandWord()
+comment2.text=\r\n\ Accesseur\ renvoyant\ le\ premier\ mot\ de\ la\ commande\r\n\ @return\ la\ chaine\ contenant\ le\ premier\ mot\ ou\ null\ si\ il\ n'y\ en\ a\ pas\r\n
+comment3.params=
+comment3.target=java.lang.String\ getSecondWord()
+comment3.text=\r\n\ Accesseur\ renvoyant\ le\ second\ mot\ de\ la\ commande\r\n\ @return\ la\ chaine\ contenant\ le\ deuxi\u00E8me\ mot\ ou\ null\ si\ il\ n'y\ en\ a\ pas\r\n
+comment4.params=
+comment4.target=java.lang.String\ getThirdWord()
+comment4.text=\r\n\ Accesseur\ renvoyant\ le\ troisi\u00E8me\ mot\ de\ la\ commande\r\n\ @return\ la\ chaine\ contenant\ le\ troisi\u00E8me\ mot\ ou\ null\ si\ il\ n'y\ en\ a\ pas\r\n
+comment5.params=
+comment5.target=boolean\ hasSecondWord()
+comment5.text=\r\n\ Fonction\ indiquant\ si\ la\ commande\ poss\u00E8de\ un\ second\ mot\ /\ premier\ param\u00E8tre\ ou\ non\r\n\ @return\ true\ s'il\ y\ a\ un\ second\ mot,\ false\ sinon\r\n
+comment6.params=
+comment6.target=boolean\ hasThirdWord()
+comment6.text=\r\n\ Fonction\ indiquant\ si\ la\ commande\ poss\u00E8de\ un\ troisi\u00E8me\ mot\ /\ deuxi\u00E8me\ param\u00E8tre\ ou\ non\r\n\ @return\ true\ s'il\ y\ a\ un\ troisi\u00E8me\ mot,\ false\ sinon\r\n
+comment7.params=
+comment7.target=boolean\ isUnknown()
+comment7.text=\r\n\ Fonction\ indiquant\ si\ la\ commande\ est\ connue\ ou\ non\r\n\ @return\ true\ si\ le\ premier\ mot\ vaut\ null,\ false\ sinon\ \r\n
+numComments=8

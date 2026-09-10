@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Beamer
+comment0.text=\r\n\ Classe\ permettant\ de\ cr\u00E9er\ un\ Beamer,\ qui\ est\ une\ sorte\ d'item\ permettant\r\n\ au\ joueur\ de\ se\ t\u00E9l\u00E9porter\ dans\ une\ pi\u00E8ce\ qu'il\ aura\ pr\u00E9alablement\ charg\u00E9\r\n\ dans\ le\ Beamer.\r\n\r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=pItemDescription\ pItemWeight\ pName
+comment1.target=Beamer(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ Beamer.\r\n\ @param\ pItemDescription\ Contient\ la\ description\ de\ l'item\r\n\ @param\ pItemWeight\ Contient\ le\ poids\ de\ l'item\r\n\ @param\ pName\ Contient\ le\ nom\ de\ l'item\r\n
+comment2.params=
+comment2.target=boolean\ isLoaded()
+comment2.text=\r\n\ Indique\ si\ le\ Beamer\ est\ charg\u00E9\ ou\ non.\r\n\ @return\ true\ si\ le\ Beamer\ contient\ une\ pi\u00E8ce\ charg\u00E9e,\r\n\ false\ sinon\ (dans\ ce\ cas\ il\ contient\ la\ pi\u00E8ce\ null)\r\n
+comment3.params=pRoom
+comment3.target=void\ charge(Room)
+comment3.text=\r\n\ Permet\ de\ charger\ la\ pi\u00E8ce\ pass\u00E9\ en\ param\u00E8tre\ dans\ le\ Beamer.\r\n\ @param\ pRoom\ pi\u00E8ce\ \u00E0\ charger\ dans\ le\ Beamer\r\n
+comment4.params=
+comment4.target=Room\ fire()
+comment4.text=\r\n\ Permet\ d'utiliser\ le\ Beamer\ en\ renvoyant\ la\ pi\u00E8ce\ pr\u00E9c\u00E9demment\ charg\u00E9e\r\n\ et\ en\ r\u00E9initialisant\ le\ chargeur\ \u00E0\ null.\r\n\ @return\ la\ pi\u00E8ce\ pr\u00E9c\u00E9demment\ charg\u00E9e\ s'il\ y\ en\ avait\ une,\r\n\ null\ sinon\r\n
+numComments=5

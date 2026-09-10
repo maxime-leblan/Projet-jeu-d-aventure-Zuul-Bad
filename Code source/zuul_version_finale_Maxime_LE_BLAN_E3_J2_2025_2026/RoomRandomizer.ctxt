@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=RoomRandomizer
+comment0.text=\r\n\ Classe\ charg\u00E9e\ de\ s\u00E9lectionner\ al\u00E9atoirement\ une\ pi\u00E8ce\ parmi\ toutes\ celles\r\n\ du\ jeu.\r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=
+comment1.target=RoomRandomizer()
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ RoomRandomizer\ (vide)\r\n
+comment2.params=
+comment2.target=Room\ findRandomRoom()
+comment2.text=\r\n\ Choisit\ al\u00E9atoirement\ une\ pi\u00E8ce\ parmi\ toutes\ celles\ existantes\ dans\r\n\ le\ jeu\ et\ la\ renvoie.\r\n\ @return\ une\ pi\u00E8ce\ du\ jeu\r\n
+numComments=3

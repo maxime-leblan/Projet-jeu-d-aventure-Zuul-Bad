@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ItemList
+comment0.text=\r\n\ Structure\ de\ donn\u00E9e\ bas\u00E9e\ sur\ un\ HashMap\ et\ qui\ est\ charg\u00E9e\ de\ stocker\r\n\ une\ liste\ d'items\ que\ l'on\ pourrait\ rep\u00E9rer\ par\ leur\ nom.\r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=
+comment1.target=ItemList()
+comment1.text=\r\n\ Constructeur\ par\ d\u00E9faut\ de\ la\ classe.\r\n
+comment2.params=pItemName
+comment2.target=Item\ get(java.lang.String)
+comment2.text=\r\n\ Fonction\ qui\ renvoie\ l'item\ associ\u00E9\ \u00E0\ pItemName\ dans\ la\ ItemList\r\n\ @param\ pItemName\ nom\ de\ l'item\ \u00E0\ renvoyer\r\n\ @return\ item\ associ\u00E9\ au\ param\u00E8tre,\ ou\ null\ si\ celui-ci\ n'est\ pas\r\n\ stock\u00E9\ dans\ le\ HashMap\r\n
+comment3.params=pItem
+comment3.target=void\ add(Item)
+comment3.text=\r\n\ Fonction\ qui\ ajoute\ un\ item\ dans\ la\ ItemList\r\n\ @param\ pItem\ nom\ de\ l'item\ \u00E0\ ajouter\r\n
+comment4.params=pItemName
+comment4.target=Item\ remove(java.lang.String)
+comment4.text=\r\n\ Fonction\ qui\ supprime\ un\ item\ dans\ la\ ItemList\r\n\ @param\ pItemName\ nom\ de\ l'item\ \u00E0\ supprimer\r\n\ @return\ item\ \u00E0\ supprimer,\ ou\ null\ si\ la\ suppression\ a\ \u00E9chou\u00E9\r\n
+comment5.params=
+comment5.target=java.lang.String\ getItemString()
+comment5.text=\r\n\ Fonction\ renvoyant\ la\ liste\ des\ items\ de\ la\ pi\u00E8ce\ sous\ la\r\n\ forme\ "item1\ item2\ ...\ itemn"\r\n\ @return\ la\ chaine\ d'item\r\n
+comment6.params=
+comment6.target=int\ getTotalWeight()
+comment6.text=\r\n\ Fonction\ qui\ renvoie\ le\ poids\ total\ de\ la\ Liste\ d'items\r\n\ @return\ poids\ total\r\n
+comment7.params=pItemName
+comment7.target=boolean\ isIn(java.lang.String)
+comment7.text=\r\n\ Fonction\ qui\ renvoie\ true\ si\ la\ Liste\ d'item\ contient\ l'item\ pass\u00E9\r\n\ en\ param\u00E8tre\r\n\ \r\n\ @param\ pItemName\ nom\ de\ l'item\ que\ l'on\ cherche\ dans\ la\ Liste\ d'items\r\n\ @return\ true\ si\ item\ est\ dans\ la\ ItemList,\ false\ sinon\r\n
+numComments=8

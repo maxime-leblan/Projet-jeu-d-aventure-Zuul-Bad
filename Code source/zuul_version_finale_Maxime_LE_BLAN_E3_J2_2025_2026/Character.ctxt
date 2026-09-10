@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ Classe\ charg\u00E9e\ d'impl\u00E9menter\ des\ PNJ.\r\n\ \r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=pName\ pDefaultText
+comment1.target=Character(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ du\ PNJ.\r\n\ @param\ pName\ nom\ du\ PNJ\r\n\ @param\ pDefaultText\ texte\ que\ le\ PNJ\ dit\ par\ d\u00E9faut\ lorsqu'il\ interagit\ avec\ le\ joueur\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Renvoie\ le\ nom\ du\ PNJ.\r\n\ @return\ nom\ du\ PNJ\r\n
+comment3.params=pPlayerName
+comment3.target=boolean\ hasMetPlayer(java.lang.String)
+comment3.text=\r\n\ Indique\ si\ le\ joueur\ pass\u00E9\ en\ param\u00E8tre\ a\ d\u00E9j\u00E0\ \u00E9t\u00E9\ rencontr\u00E9\r\n\ par\ le\ PNJ.\r\n\ @param\ pPlayerName\ nom\ du\ joueur\ d\u00E9crit\ ci-dessus\r\n\ @return\ true\ si\ le\ joueur\ a\ d\u00E9j\u00E0\ \u00E9t\u00E9\ rencontr\u00E9,\ false\ sinon\r\n
+comment4.params=pPlayerName
+comment4.target=void\ meetPlayer(java.lang.String)
+comment4.text=\r\n\ Indique\ que\ le\ PNJ\ a\ rencontr\u00E9\ le\ joueur\ dont\ le\ nom\ est\ pass\u00E9\ en\r\n\ param\u00E8tre.\r\n\ @param\ pPlayerName\ nom\ du\ joueur\ d\u00E9crit\ ci-dessus\r\n
+comment5.params=
+comment5.target=java.lang.String\ getIntroductionText()
+comment5.text=\r\n\ Renvoie\ le\ message\ de\ pr\u00E9sentation\ que\ le\ PNJ\ dit\ lorsqu'il\r\n\ rencontre\ le\ joueur\ au\ d\u00E9but\ d'une\ interaction.\r\n\ @return\ la\ chaine\ de\ caract\u00E8re\ comportant\ le\ message\r\n
+comment6.params=pItemName\ pInformation
+comment6.target=void\ addItemInfo(java.lang.String,\ java.lang.String)
+comment6.text=\r\n\ Donne\ l'information\ associ\u00E9e\ \u00E0\ l'item\ pass\u00E9\ en\ param\u00E8tre\r\n\ au\ PNJ\ pour\ qu'il\ puisse\ par\ la\ suite\ la\ donner\ au\ joueur\r\n\ si\ n\u00E9cessaire.\r\n\ @param\ pItemName\ nom\ de\ l'item\r\n\ @param\ pInformation\ information\ \u00E0\ associer\ avec\ l'item\r\n
+comment7.params=pItemName
+comment7.target=java.lang.String\ getItemInfo(java.lang.String)
+comment7.text=\r\n\ Renvoie\ l'information\ associ\u00E9e\ \u00E0\ l'item\ dont\ le\ nom\ a\ \u00E9t\u00E9\ pass\u00E9\r\n\ en\ param\u00E8tre.\r\n\ @param\ pItemName\ nom\ de\ l'item\ dont\ on\ d\u00E9sire\ obtenir\ plus\ d'infos\r\n\ @return\ les\ informations\ associ\u00E9es\ \u00E0\ l'item\ sous\ la\ forme\ d'une\ \r\n\ chaine,\ ou\ bien\ un\ message\ indiquant\ que\ le\ PNJ\ n'a\ pas\ d'info\r\n\ dessus\ s'il\ n'en\ trouve\ pas\ dans\ sa\ base\ de\ donn\u00E9e.\r\n
+numComments=8

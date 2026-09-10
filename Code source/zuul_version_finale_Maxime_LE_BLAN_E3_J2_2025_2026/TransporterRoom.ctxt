@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TransporterRoom
+comment0.text=\r\n\ Classe\ h\u00E9riti\u00E8re\ de\ la\ classe\ Room\ charg\u00E9\ d'instancier\ des\ TransporterRoom\r\n\ \=\=>\ pi\u00E8ce\ pour\ pouvoir\ se\ t\u00E9l\u00E9porter\ al\u00E9atoirement\ dans\ une\ autre\ pi\u00E8ce\ du\r\n\ jeu\r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=pDescription\ pImage
+comment1.target=TransporterRoom(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ TransporterRoom.\r\n\ @param\ pDescription\ -\ String\ contenant\ une\ description\ de\ la\ pi\u00E8ce\r\n\ @param\ pImage\ image\ associ\u00E9e\ \u00E0\ la\ pi\u00E8ce\r\n
+comment2.params=pRoom
+comment2.target=void\ setNextRandomRoom(Room)
+comment2.text=\r\n\ Change\ la\ valeur\ de\ la\ prochaine\ pi\u00E8ce\ al\u00E9atoire\ que\ doit\r\n\ renvoyer\ la\ fonction\ getExit.\r\n\ @param\ pRoom\ pi\u00E8ce\ que\ devra\ renvoyer\ getExit\r\n
+comment3.params=pDirection
+comment3.target=Room\ getExit(java.lang.String)
+comment3.text=\r\n\ Fonction\ qui\ renvoie\ une\ sortie\ choisie\ al\u00E9atoirement.\r\n\ @param\ pDirection\ String\ contenant\ une\ direction\ (pas\ utile\ ici)\r\n\ @return\ une\ pi\u00E8ce\ du\ jeu\r\n
+numComments=4

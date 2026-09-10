@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MovingCharacter
+comment0.text=\r\n\ Classe\ charg\u00E9e\ d'impl\u00E9menter\ des\ PNJ\ pouvant\ se\ d\u00E9placer,\ elle\r\n\ h\u00E9rite\ de\ la\ classe\ Character.\r\n\ \r\n\ \r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=pName\ pDefaultText\ pStarterRoom
+comment1.target=MovingCharacter(java.lang.String,\ java.lang.String,\ Room)
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ MovingCharacter.\r\n\ @param\ pName\ nom\ du\ PNJ\r\n\ @param\ pDefaultText\ texte\ de\ pr\u00E9sentation\ par\ d\u00E9faut\ du\ PNJ\r\n\ @param\ pStarterRoom\ pi\u00E8ce\ o\u00F9\ se\ trouve\ le\ PNJ\ au\ lancement\ du\ jeu\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Permet\ de\ d\u00E9placer\ le\ PNJ\ dans\ la\ pi\u00E8ce\ suivante\ du\ parcours\r\n\ qu'il\ doit\ effectuer.\r\n
+comment3.params=pRoom
+comment3.target=void\ addToPath(Room)
+comment3.text=\r\n\ Rajoute\ une\ pi\u00E8ce\ en\ plus\ au\ chemin\ que\ doit\ effectuer\ le\ PNJ.\r\n\ @param\ pRoom\ pi\u00E8ce\ \u00E0\ ajouter\r\n
+comment4.params=
+comment4.target=Room\ getCurrentRoom()
+comment4.text=\r\n\ Renvoie\ la\ pi\u00E8ce\ dans\ laquelle\ se\ trouve\ le\ PNJ.\r\n\ @return\ une\ pi\u00E8ce\ du\ jeu\r\n
+numComments=5

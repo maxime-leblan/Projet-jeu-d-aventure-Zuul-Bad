@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Test
+comment0.text=\r\n\ Classe\ permettant\ de\ lancer\ une\ ex\u00E9cution\ du\ jeu.\r\n\r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=
+comment1.target=Test()
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ Test.\r\n
+comment2.params=
+comment2.target=void\ test()
+comment2.text=\r\n\ M\u00E9thode\ static\ d\u00E9marrant\ l'execution\ du\ jeu\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LectureFichierSimple
+comment0.text=\r\n\ Classe\ qui\ g\u00E8re\ la\ lecture\ d'un\ fichier\ contenant\ des\ commandes\ de\ test\r\n\ pour\ le\ jeu.\r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=
+comment1.target=LectureFichierSimple()
+comment1.text=\r\n\ Constructeur\ par\ d\u00E9faut\ de\ la\ classe\r\n
+comment2.params=pNomFichier\ pGameEngine
+comment2.target=void\ lecture(java.lang.String,\ GameEngine)
+comment2.text=\r\n\ Fonction\ permettant\ de\ lire\ un\ fichier\ contenant\ des\ commandes\r\n\ du\ jeu\ afin\ de\ les\ tester\ une\ par\ une\r\n\ @param\ pNomFichier\ nom\ du\ fichier\ texte\ contenant\ la\ liste\ des\ commandes\r\n\ @param\ pGameEngine\ instance\ de\ la\ classe\ GameEngine\ permettant\ d'ex\u00E9cute\ les\ commandes\r\n
+numComments=3

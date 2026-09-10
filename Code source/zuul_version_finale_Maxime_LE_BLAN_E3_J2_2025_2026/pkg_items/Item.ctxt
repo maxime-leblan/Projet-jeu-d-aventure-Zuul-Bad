@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Classe\ permettant\ de\ cr\u00E9er\ un\ item\ pour\ le\ jeu\ qui\ pourra\ \u00EAtre\ pr\u00E9sent\r\n\ dans\ une\ des\ pi\u00E8ces\ du\ jeu.\r\n\r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=pItemDescription\ pItemWeight\ pName
+comment1.target=Item(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ Item\r\n\ @param\ pItemDescription\ Contient\ la\ description\ de\ l'item\r\n\ @param\ pItemWeight\ Contient\ le\ poids\ de\ l'item\r\n\ @param\ pName\ Contient\ le\ nom\ de\ l'item\r\n
+comment2.params=
+comment2.target=int\ getItemWeight()
+comment2.text=\r\n\ Fonction\ qui\ renvoie\ la\ valeur\ du\ poids\ de\ l'item.\r\n\ @return\ poids\ de\ l'item\r\n
+comment3.params=
+comment3.target=java.lang.String\ getItemDescription()
+comment3.text=\r\n\ Fonction\ qui\ renvoie\ la\ description\ de\ l'item.\r\n\ @return\ description\ de\ l'item\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ Fonction\ qui\ renvoie\ le\ nom\ de\ l'item.\r\n\ @return\ nom\ de\ l'item\r\n
+comment5.params=
+comment5.target=java.lang.String\ getItemLongDescription()
+comment5.text=\r\n\ Fonction\ qui\ renvoie\ une\ description\ d\u00E9taill\u00E9e\ de\ l'item\ avec\ toutes\r\n\ ses\ caract\u00E9ristiques\r\n\ ex\ \:\ "L'item\ Fusil\ DC-15A\ p\u00E8se\ 3\ kilo(s)"\r\n\ @return\ longue\ description\ de\ l'item\r\n
+numComments=6

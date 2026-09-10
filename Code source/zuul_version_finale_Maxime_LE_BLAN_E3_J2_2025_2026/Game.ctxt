@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Classe\ Game,\ cr\u00E9e\ un\ nouveau\ jeu\ \u00E0\ l'aide\ des\ classes\ GameEngine\ et\r\n\ UserInterface.\r\n\r\n\ @author\ Maxime\ LE\ BLAN\r\n\ @version\ 14/01/2026\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Create\ the\ game\ and\ initialise\ its\ internal\ map.\ Create\ the\ inerface\ and\ link\ to\ it.\r\n
+numComments=2

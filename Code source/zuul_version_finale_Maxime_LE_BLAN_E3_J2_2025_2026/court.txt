@@ -1,0 +1,8 @@
+go east
+go east
+go north
+go north
+eat
+look DC-15S
+help
+quit
